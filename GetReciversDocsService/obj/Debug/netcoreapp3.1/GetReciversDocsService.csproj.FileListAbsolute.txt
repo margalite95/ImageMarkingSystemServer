@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetReciversDocsService\bin\Debug\netcoreapp3.1\GetReciversDocsService.deps.json
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetReciversDocsService\bin\Debug\netcoreapp3.1\GetReciversDocsService.dll
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetReciversDocsService\bin\Debug\netcoreapp3.1\GetReciversDocsService.pdb
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetReciversDocsService\bin\Debug\netcoreapp3.1\ImageMarkingContract.dll
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetReciversDocsService\bin\Debug\netcoreapp3.1\ImageMarkingContract.pdb
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetReciversDocsService\obj\Debug\netcoreapp3.1\GetReciversDocsService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetReciversDocsService\obj\Debug\netcoreapp3.1\GetReciversDocsService.AssemblyInfo.cs
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetReciversDocsService\obj\Debug\netcoreapp3.1\GetReciversDocsService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetReciversDocsService\obj\Debug\netcoreapp3.1\GetReciversDocsService.csproj.CopyComplete
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetReciversDocsService\obj\Debug\netcoreapp3.1\GetReciversDocsService.dll
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetReciversDocsService\obj\Debug\netcoreapp3.1\GetReciversDocsService.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetSharedUsersService\bin\Debug\netcoreapp3.1\GetSharedUsersService.deps.json
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetSharedUsersService\bin\Debug\netcoreapp3.1\GetSharedUsersService.dll
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetSharedUsersService\bin\Debug\netcoreapp3.1\GetSharedUsersService.pdb
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetSharedUsersService\bin\Debug\netcoreapp3.1\ImageMarkingContract.dll
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetSharedUsersService\bin\Debug\netcoreapp3.1\ImageMarkingContract.pdb
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetSharedUsersService\obj\Debug\netcoreapp3.1\GetSharedUsersService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetSharedUsersService\obj\Debug\netcoreapp3.1\GetSharedUsersService.AssemblyInfo.cs
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetSharedUsersService\obj\Debug\netcoreapp3.1\GetSharedUsersService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetSharedUsersService\obj\Debug\netcoreapp3.1\GetSharedUsersService.csproj.CopyComplete
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetSharedUsersService\obj\Debug\netcoreapp3.1\GetSharedUsersService.dll
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\GetSharedUsersService\obj\Debug\netcoreapp3.1\GetSharedUsersService.pdb

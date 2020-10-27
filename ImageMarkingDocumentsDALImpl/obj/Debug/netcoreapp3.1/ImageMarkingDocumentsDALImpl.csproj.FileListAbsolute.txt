@@ -1,0 +1,5 @@
+C:\Users\97252\Desktop\מזרחי\FINAL_PROJECT\ImageMarkingSystem\ImageMarkingDocumentsDALImpl\bin\Debug\netcoreapp3.1\ImageMarkingDocumentsDALImpl.deps.json
+C:\Users\97252\Desktop\מזרחי\FINAL_PROJECT\ImageMarkingSystem\ImageMarkingDocumentsDALImpl\bin\Debug\netcoreapp3.1\ImageMarkingDocumentsDALImpl.dll
+C:\Users\97252\Desktop\מזרחי\FINAL_PROJECT\ImageMarkingSystem\ImageMarkingDocumentsDALImpl\obj\Debug\netcoreapp3.1\ImageMarkingDocumentsDALImpl.csprojAssemblyReference.cache
+C:\Users\97252\Desktop\מזרחי\FINAL_PROJECT\ImageMarkingSystem\ImageMarkingDocumentsDALImpl\obj\Debug\netcoreapp3.1\ImageMarkingDocumentsDALImpl.AssemblyInfoInputs.cache
+C:\Users\97252\Desktop\מזרחי\FINAL_PROJECT\ImageMarkingSystem\ImageMarkingDocumentsDALImpl\obj\Debug\netcoreapp3.1\ImageMarkingDocumentsDALImpl.AssemblyInfo.cs

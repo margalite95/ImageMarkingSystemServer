@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ImageMarkingDocumentsDALImpl/1.0.0": {
+        "dependencies": {
+          "DIContract": "1.0.2"
+        },
+        "runtime": {
+          "ImageMarkingDocumentsDALImpl.dll": {}
+        }
+      },
+      "DIContract/1.0.2": {
+        "runtime": {
+          "lib/netcoreapp3.1/DIContract.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImageMarkingDocumentsDALImpl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DIContract/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9/kBbs6MZOGbLNcavBEmraKoPY7q0CohJZ2T1cSfh3x2SS9HXXe/G8JvVeA9dVH6j4ObBTe3EDbQKbCjolq1rg==",
+      "path": "dicontract/1.0.2",
+      "hashPath": "dicontract.1.0.2.nupkg.sha512"
+    }
+  }
+}

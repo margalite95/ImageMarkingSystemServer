@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\WSService\bin\Debug\netcoreapp3.1\WSService.deps.json
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\WSService\bin\Debug\netcoreapp3.1\WSService.dll
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\WSService\bin\Debug\netcoreapp3.1\WSService.pdb
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\WSService\bin\Debug\netcoreapp3.1\ImageMarkingContract.dll
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\WSService\bin\Debug\netcoreapp3.1\ImageMarkingContract.pdb
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\WSService\obj\Debug\netcoreapp3.1\WSService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\WSService\obj\Debug\netcoreapp3.1\WSService.AssemblyInfo.cs
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\WSService\obj\Debug\netcoreapp3.1\WSService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\WSService\obj\Debug\netcoreapp3.1\WSService.csproj.CopyComplete
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\WSService\obj\Debug\netcoreapp3.1\WSService.dll
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\WSService\obj\Debug\netcoreapp3.1\WSService.pdb
+C:\Users\User\Desktop\mizrachi\FINAL_PROJECT\ImageMarking\WSService\obj\Debug\netcoreapp3.1\WSService.csprojAssemblyReference.cache
